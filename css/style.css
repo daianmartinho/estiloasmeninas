@@ -6,9 +6,9 @@ body {
 
 }
 .logo{		
-	width:476px;
-	height:548px; 
-
+	width:480px;
+	height:568px;
+	
 	position:absolute;
 	top:50%;
 	margin-top: -274px;
@@ -18,9 +18,13 @@ body {
 }
 
 img {
-	display: inline;
+	
 	max-width: 100%;
+
 }
 
+#asmeninas{
+	margin-top: 15px;
+}
 
 
