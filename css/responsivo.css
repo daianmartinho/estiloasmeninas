@@ -1,0 +1,23 @@
+/*.coluna {
+	width: 47%;
+	margin-right: 6%;
+}
+
+.segunda {
+	margin: 0;
+}
+
+.ultima {
+	float: none;
+	clear: both;
+	margin-right: 0;
+	width: 100%;
+}
+
+@media screen and (max-width: 500px) {
+	.mobile-collapse {
+		float: none;
+		margin-right: 0;
+		width: 100%;
+	}
+}

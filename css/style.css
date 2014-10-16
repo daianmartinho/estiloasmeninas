@@ -1,0 +1,26 @@
+body {
+	color: #2c3e50;
+	font-family: "Helvetica" "Arial" sans-serif;
+	background-color: #F4C573;
+	
+
+}
+.logo{		
+	width:476px;
+	height:548px; 
+
+	position:absolute;
+	top:50%;
+	margin-top: -274px;
+	left: 50%;
+	margin-left: -238px;
+
+}
+
+img {
+	display: inline;
+	max-width: 100%;
+}
+
+
+
