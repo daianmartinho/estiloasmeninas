@@ -1,6 +1,7 @@
 body {
-	color: #2c3e50;
-	font-family: "Helvetica" "Arial" sans-serif;
+	color: #202224;
+	font-family: Arial,  sans-serif;
+	font-size: 13px;
 	background-color: #F4C573;
 	
 
@@ -23,8 +24,34 @@ img {
 
 }
 
+#landing_page{
+	width:480px;
+	height:30px;
+	position:absolute;
+	top:50%;
+	margin-top: 320px;
+	left: 50%;
+	margin-left: -238px;
+
+}
+
 #asmeninas{
 	margin-top: 15px;
 }
 
+#facebook{
+	width: 20px;
+	float:right;
+}
+.breve{
+	vertical-align: baseline;
+	padding-left: 25%; 
+		
+	float: left;
+}
 
+a {
+    color: #202224;
+    transition: all 0.4s ease-in-out 0s;
+    text-decoration: none;
+}
